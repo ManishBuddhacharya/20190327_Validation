@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
             principle.setError("Please enter Principle");
             principle.requestFocus();
             result = false;
+
         }
 
         else if(TextUtils.isEmpty(time.getText().toString())){

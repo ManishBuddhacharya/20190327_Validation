@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             rate.requestFocus();
             result = false;
 
+
         }
         return result;
 

@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
             rate.setError("Please enter Rate");
             rate.requestFocus();
             result = false;
+
         }
         return result;
 
